@@ -1,0 +1,24 @@
+{
+  "name": "attendance",
+  "description": "考勤系统",
+  "main": "app.js",
+  "authors": [
+    "秦丽云  卢安琪 罗洁 李士锦"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "angular": "^1.6.3",
+    "angular-messages": "^1.6.3"
+  }
+}
